@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/16Ytx_fz)
 
 
-# 🌦️ Is London really as rainy as the movies make it out to be? 🌦️
+# <p align="center"> 🌦️ Is London really as rainy as the movies make it out to be? 🌦️</p>
 
 ## 🌧️ The Question
 This project sets out to explore the question **"Is London really as rainy as the movies make it out to be?"**.  
@@ -15,8 +15,8 @@ The analysis will focus on multiple aspects of rainfall, including:
 
 By combining these factors, the project aims to offer a comprehensive assessment of London's raininess, accounting for both the volume of rain and the frequency of precipitation, and determining whether the city's reputation for frequent rain is deserved.
 
-To see the data collection process [click here!](code/NB01%20-%20Data%20Collection.ipynb)  
-To see the data analysis [click here!](code/NB02%20-%20Data%20Analysis.ipynb)
+To see the data collection process [click here](code/NB01%20-%20Data%20Collection.ipynb)!   
+To see the data analysis [click here](code/NB02%20-%20Data%20Analysis.ipynb)!
 
 ## ☔ Running the code
 To run the code, make a clone of the repository:  
